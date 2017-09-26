@@ -1,0 +1,39 @@
+{
+  "button": [
+    {
+      "name": "商学",
+      "type": "view",
+      "url": "http://br.buddydc.com/#/business?from=officialAccounts"
+    },
+    {
+      "name": "资本",
+      "type": "view",
+      "url": "http://br.buddydc.com/#/assets?from=officialAccounts"
+    },
+    {
+      "name": "我",
+      "sub_button": [
+        {
+          "name": "一键设置头像",
+          "type": "pic_photo_or_album",
+          "key": "pic_photo_or_album"
+        },
+        {
+          "name": "巴迪全球购",
+          "type": "view",
+          "url": "http://weidian.com/s/902369867?wfr=c"
+        },
+        {
+          "name": "家族办公室",
+          "type": "view",
+          "url": "http://br.buddydc.com/#/card?from=officialAccounts"
+        },
+        {
+          "name": "我的学员",
+          "type": "view",
+          "url": "http://br.buddydc.com/#/me?from=officialAccounts"
+        }
+      ]
+    }
+  ]
+}

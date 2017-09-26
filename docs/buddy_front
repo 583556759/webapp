@@ -1,0 +1,3 @@
+## 根据后端对业务的实现,将前端JS文件分成xdock.js,xuser.js以及各模块的js文件
+### 其中xdock.js是业务的核心,xuser.js继承xdock.js主要实现与商学用户相关的业务,其他JS模块实现各页面的UI和业务逻辑
+

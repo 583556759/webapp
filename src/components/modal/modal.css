@@ -1,0 +1,71 @@
+.mask{
+    background: #000;
+    position: fixed;
+    opacity: 0.5;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1000;
+}
+.modalContent{
+    background: #fff;
+    position: absolute;
+    opacity: 1;
+    margin: 150px 13% 0 13%;
+    top:0;
+    left: 0;
+    width:74%;
+    height: auto;
+    z-index: 1001;
+    border-radius: 5px 5px;
+}
+.modalTitle{
+    border-bottom:1px solid #eee;
+    top:0;
+    position: relative;
+    height: 40px;
+    width: 100%;
+    line-height: 20px;
+    padding: 10px;
+    font-size: 18px;
+}
+.modalBody{
+    font-size: 18px;
+    height: auto;
+    padding: 15px 10px 15px 10px ;
+    position: relative;
+}
+.modalFooter{
+    border-top:1px solid #eee;
+    float: left;
+    bottom: 0;
+    position: relative;
+    height: 40px;
+    width: 100%;
+    border-radius:0 0 5px 5px ;
+}
+.footerLeft,.footerRight{
+    outline: none;
+    background: #fff;
+    line-height: 36px;
+    border:none;
+    font-size: 20px;
+    text-align: center;
+    width: 50%;
+    height: 100%;
+}
+.footerLeft{
+    border-right: 1px solid #eee;
+    float: left;
+    border-radius: 0 0  0 5px;
+
+}
+.footerRight{
+    float: right;
+    border-radius: 0 0  5px 0;
+}
+.footerLeft:focus,.footerRight:focus{
+    border: 1px solid #eee;
+    background: #eeeeee;
+}
