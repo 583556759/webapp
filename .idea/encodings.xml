@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/actions/creditloan.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/actions/wallet.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/card/Card.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/card/Card.less" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/contractCard/ContractCard.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/overdueRecord/OverdueRecord.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/overdueRecord/OverdueRecord.less" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/recharge/RechargeAmount.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/container/contract/OverdueRecord.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/container/contract/RepaymentPlan.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/container/wallet/recharge/Recharge.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/container/wallet/recharge/Recharge.less" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/container/wallet/withdraw/Withdraw.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/reducers/creditloan.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/reducers/reducers.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/reducers/wallet.js" charset="UTF-8" />
+  </component>
+</project>
