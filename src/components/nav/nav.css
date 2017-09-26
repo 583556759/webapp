@@ -1,0 +1,43 @@
+
+.active>icon,.active>p{
+    margin: -2px 0 2px 0;
+    color: #574f5f;
+    padding: 0;
+}
+.active:hover,.active:focus{
+    text-decoration: none;
+    outline: none;
+}
+
+.disActive{
+    color: #a8a8a8;
+    /*margin-bottom: 10px;*/
+}
+.disActive:hover,.disActive:focus,.disActive:link{
+    text-decoration: none;
+    outline: none;
+}
+.disActive>icon,.disActive>p{
+    margin: -2px 0 2px 0;
+    padding: 0;
+}
+.navStyle {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    border-top: 1px solid #eee;
+    padding:2px 25px 0 25px;
+    background: white;
+}
+.active .icon1{
+  display: none;
+}
+.active .icon2{
+  display: block;
+}
+.disActive .icon1{
+  display: block;
+}
+.disActive .icon2{
+  display: none;
+}

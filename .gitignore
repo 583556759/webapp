@@ -1,0 +1,16 @@
+.idea/
+node_modules/
+buddyReact.iml
+src/js/test.js
+/assets/*.woff2
+/assets/*.woff
+#/assets/*.svg
+/assets/*.ttf
+/assets/*.eot
+#/assets/*/*.svg
+/assets/*/*.ttf
+/assets/*/*.eot
+/assets/*.js
+/assets/*/*.js
+/assets/index.html
+npm-debug.log
